@@ -10,8 +10,8 @@
     </cell_rules>
 
     <domain>
-        <x_min>-650</x_min>
-        <x_max>650</x_max>
+        <x_min>-205</x_min>
+        <x_max>205</x_max>
         <y_min>-200</y_min>
         <y_max>1100</y_max>
         <z_min>-10</z_min>
@@ -23,7 +23,7 @@
     </domain>
 
     <overall>
-        <max_time units="min">10080.0</max_time>
+        <max_time units="min">12000.0</max_time>
         <time_units>min</time_units>
         <space_units>micron</space_units>
         <dt_diffusion units="min">0.01</dt_diffusion>
@@ -36,7 +36,7 @@
     </parallel>
 
     <save>
-        <folder>output/RGC_CCR_decrease</folder>
+        <folder>output/narrow/test</folder>
         <full_data>
             <interval units="min">60</interval>
             <enable>true</enable>
@@ -85,12 +85,12 @@
                 <decay_rate units="1/min">1.0</decay_rate>
             </physical_parameter_set>
             <initial_condition units="dimensionless">0.0</initial_condition>
-            <Dirichlet_boundary_condition units="dimensionless" enabled="True">0.0</Dirichlet_boundary_condition>
+            <Dirichlet_boundary_condition units="dimensionless" enabled="False">0.0</Dirichlet_boundary_condition>
             <Dirichlet_options>
                 <boundary_value ID="xmin" enabled="False" />
                 <boundary_value ID="xmax" enabled="False" />
                 <boundary_value ID="ymin" enabled="False" />
-                <boundary_value ID="ymax" enabled="True">10</boundary_value>
+                <boundary_value ID="ymax" enabled="False">10</boundary_value>
                 <boundary_value ID="zmin" enabled="False" />
                 <boundary_value ID="zmax" enabled="False" />
             </Dirichlet_options>
@@ -541,7 +541,7 @@
                     <detachment_rate units="1/min">0.0</detachment_rate>
                 </mechanics>
                 <motility>
-                    <speed units="micron/min">0.01</speed>
+                    <speed units="micron/min">0.0</speed>
                     <persistence_time units="min">5</persistence_time>
                     <migration_bias units="dimensionless">1</migration_bias>
                     <options>
@@ -700,7 +700,7 @@
             <phenotype>
                 <cycle code="5" name="live">
                     <phase_transition_rates units="1/min">
-                        <rate start_index="0" end_index="0" fixed_duration="false">0.003</rate>
+                        <rate start_index="0" end_index="0" fixed_duration="true">0.00159</rate>
                     </phase_transition_rates>
                 </cycle>
                 <death>

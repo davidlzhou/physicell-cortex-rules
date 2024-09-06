@@ -17,98 +17,98 @@ DEBUG:root: --> type_1_diff_factor
 DEBUG:root:=======================  microenv populate_tree  ======================= 
 DEBUG:root:dc_ic_units =  dimensionless
 DEBUG:root:dc_bc_units = dimensionless
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf17c70>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e527c70>
 DEBUG:root:   -------- reelin:  dirichlet_xmin = None
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf17d10>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf17db0>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf17e50>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf17ef0>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf17f90>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e527d10>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e527db0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e527e50>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e527ef0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e527f90>
 DEBUG:root:dc_ic_units =  dimensionless
 DEBUG:root:dc_bc_units = dimensionless
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf1c3b0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e52c3b0>
 DEBUG:root:   -------- pia_migration_factor:  dirichlet_xmin = None
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf1c450>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf1c4f0>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf1c590>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf1c630>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf1c6d0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e52c450>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e52c4f0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e52c590>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e52c630>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e52c6d0>
 DEBUG:root:dc_ic_units =  mmHg
 DEBUG:root:dc_bc_units = mmHg
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf1ca90>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e52ca90>
 DEBUG:root:   -------- rgc_taxis_factor:  dirichlet_xmin = 0
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf1cb30>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf1cbd0>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf1cc70>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf1cd10>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf1cdb0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e52cb30>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e52cbd0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e52cc70>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e52cd10>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e52cdb0>
 DEBUG:root:dc_ic_units =  dimensionless
 DEBUG:root:dc_bc_units = dimensionless
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf211d0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e5311d0>
 DEBUG:root:   -------- transformation_inhibitor:  dirichlet_xmin = None
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf21270>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf21310>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf213b0>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf21450>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf214f0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e531270>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e531310>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e5313b0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e531450>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e5314f0>
 DEBUG:root:dc_ic_units =  dimensionless
 DEBUG:root:dc_bc_units = dimensionless
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf218b0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e5318b0>
 DEBUG:root:   -------- type_6_diff_factor:  dirichlet_xmin = None
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf21950>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf219f0>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf21a90>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf21b30>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf21bd0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e531950>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e5319f0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e531a90>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e531b30>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e531bd0>
 DEBUG:root:dc_ic_units =  dimensionless
 DEBUG:root:dc_bc_units = dimensionless
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf21f90>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e531f90>
 DEBUG:root:   -------- type_5_diff_factor:  dirichlet_xmin = None
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf26090>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf26130>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf261d0>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf26270>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf26310>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e536090>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e536130>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e5361d0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e536270>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e536310>
 DEBUG:root:dc_ic_units =  dimensionless
 DEBUG:root:dc_bc_units = dimensionless
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf266d0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e5366d0>
 DEBUG:root:   -------- type_4_diff_factor:  dirichlet_xmin = None
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf26770>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf26810>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf268b0>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf26950>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf269f0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e536770>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e536810>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e5368b0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e536950>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e5369f0>
 DEBUG:root:dc_ic_units =  dimensionless
 DEBUG:root:dc_bc_units = dimensionless
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf26db0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e536db0>
 DEBUG:root:   -------- type_3_diff_factor:  dirichlet_xmin = None
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf26e50>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf26ef0>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf26f90>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2a090>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2a130>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e536e50>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e536ef0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e536f90>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53a090>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53a130>
 DEBUG:root:dc_ic_units =  dimensionless
 DEBUG:root:dc_bc_units = dimensionless
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2a4f0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53a4f0>
 DEBUG:root:   -------- type_2_diff_factor:  dirichlet_xmin = None
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2a590>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2a630>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2a6d0>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2a770>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2a810>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53a590>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53a630>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53a6d0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53a770>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53a810>
 DEBUG:root:dc_ic_units =  dimensionless
 DEBUG:root:dc_bc_units = dimensionless
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2abd0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53abd0>
 DEBUG:root:   -------- type_1_diff_factor:  dirichlet_xmin = None
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2ac70>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2ad10>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2adb0>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2ae50>
-DEBUG:root:bv = <Element 'boundary_value' at 0x17bf2aef0>
-DEBUG:root:------- options: <Element 'calculate_gradients' at 0x17bf74040>
-DEBUG:root:------- options: <Element 'track_internalized_substrates_in_each_agent' at 0x17bf740e0>
-DEBUG:root:------- options: <Element 'initial_condition' at 0x17bf74130>
-DEBUG:root:------- options: <Element 'dirichlet_nodes' at 0x17bf74270>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53ac70>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53ad10>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53adb0>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53ae50>
+DEBUG:root:bv = <Element 'boundary_value' at 0x17e53aef0>
+DEBUG:root:------- options: <Element 'calculate_gradients' at 0x17f244040>
+DEBUG:root:------- options: <Element 'track_internalized_substrates_in_each_agent' at 0x17f2440e0>
+DEBUG:root:------- options: <Element 'initial_condition' at 0x17f244130>
+DEBUG:root:------- options: <Element 'dirichlet_nodes' at 0x17f244270>
 DEBUG:root:
 
 =======================  leaving microenv populate_tree  =====================
@@ -172,22 +172,22 @@ DEBUG:root:
 DEBUG:root: >> cycle_path= .//cell_definition[1]//phenotype//cycle
 DEBUG:root:   cycle code= 5
 DEBUG:root: >> phase_transition_path 
-DEBUG:root:<Element 'rate' at 0x17bf746d0>
+DEBUG:root:<Element 'rate' at 0x17f2446d0>
 DEBUG:root:--  cycle_live_trate00 0
 DEBUG:root: >> phase_durations_path =.//cell_definition[1]//phenotype//cycle//phase_durations
 DEBUG:root: >> pd_uep =None
 DEBUG:root:
 ===== populate_tree():  death
-DEBUG:root:death_uep=<Element 'death' at 0x17bf74810>
+DEBUG:root:death_uep=<Element 'death' at 0x17f244810>
 DEBUG:root:-------- parsing apoptosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17bf749f0>
-DEBUG:root:phase_duration= <Element 'duration' at 0x17bf74a90>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f2449f0>
+DEBUG:root:phase_duration= <Element 'duration' at 0x17f244a90>
 DEBUG:root:index= 0
 DEBUG:root:-------- parsing necrosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17bf77400>
-DEBUG:root:<Element 'duration' at 0x17bf774a0>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f247400>
+DEBUG:root:<Element 'duration' at 0x17f2474a0>
 DEBUG:root:index= 0
-DEBUG:root:<Element 'duration' at 0x17bf77540>
+DEBUG:root:<Element 'duration' at 0x17f247540>
 DEBUG:root:index= 1
 DEBUG:root:volume_path=.//cell_definition[1]//phenotype//volume//
 DEBUG:root:
@@ -214,26 +214,26 @@ DEBUG:root:
 DEBUG:root:motility_advanced_chemotaxis_path= .//cell_definition[1]//phenotype//motility//options//advanced_chemotaxis//
 DEBUG:root:chemotactic_sensitivity= {'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:sensitivity_path= .//cell_definition[1]//phenotype//motility//options//advanced_chemotaxis//chemotactic_sensitivities
-DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17bf7ef40>
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bf80040>
+DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17f24ef40>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f250040>
 DEBUG:root: chemotactic_sensitivity--> reelin = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bf800e0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2500e0>
 DEBUG:root: chemotactic_sensitivity--> pia_migration_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bf80180>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f250180>
 DEBUG:root: chemotactic_sensitivity--> rgc_taxis_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bf80220>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f250220>
 DEBUG:root: chemotactic_sensitivity--> transformation_inhibitor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bf802c0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2502c0>
 DEBUG:root: chemotactic_sensitivity--> type_6_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bf80360>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f250360>
 DEBUG:root: chemotactic_sensitivity--> type_5_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bf80400>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f250400>
 DEBUG:root: chemotactic_sensitivity--> type_4_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bf804a0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2504a0>
 DEBUG:root: chemotactic_sensitivity--> type_3_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bf80540>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f250540>
 DEBUG:root: chemotactic_sensitivity--> type_2_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bf805e0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2505e0>
 DEBUG:root: chemotactic_sensitivity--> type_1_diff_factor = 0.0
 DEBUG:root:{'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:------ motility2_substrate_changed_cb(): idx = 0
@@ -246,7 +246,7 @@ DEBUG:root:     chemotactic_sensitivity (dict)= {'reelin': '0.0', 'pia_migration
 DEBUG:root:
 ===== populate_tree():  secretion
 DEBUG:root:secretion_path = .//cell_definition[1]//phenotype//secretion//
-DEBUG:root:uep_secretion = <Element 'secretion' at 0x17bf807c0>
+DEBUG:root:uep_secretion = <Element 'secretion' at 0x17f2507c0>
 DEBUG:root:0) -- secretion substrate = reelin
 DEBUG:root:1) -- secretion substrate = pia_migration_factor
 DEBUG:root:2) -- secretion substrate = rgc_taxis_factor
@@ -262,7 +262,7 @@ DEBUG:root:
 ===== populate_tree():  cell_interactions
 DEBUG:root:---- cell_interactions_path= .//cell_definition[1]//phenotype//cell_interactions
 DEBUG:root:---- found cell_interactions:
-DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17bf8b7c0>
+DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17f25b7c0>
 DEBUG:root: live_phagocytosis_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: attack_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: fusion_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
@@ -277,7 +277,7 @@ DEBUG:root:
 DEBUG:root:------ done parsing intracellular:
 DEBUG:root:
 ===== populate_tree():  custom data
-DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17bf93a90>
+DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17f263a90>
 DEBUG:root:--------------- populate_tree: (empty)custom_data = {}
 DEBUG:root:var.attrib.keys() = dict_keys(['conserved', 'units', 'description'])
 DEBUG:root:populate: cell_def_name= apical --> custom_data: {'sample': ['1.0', False]}
@@ -294,22 +294,22 @@ DEBUG:root:
 DEBUG:root: >> cycle_path= .//cell_definition[2]//phenotype//cycle
 DEBUG:root:   cycle code= 5
 DEBUG:root: >> phase_transition_path 
-DEBUG:root:<Element 'rate' at 0x17bf93e50>
+DEBUG:root:<Element 'rate' at 0x17f263e50>
 DEBUG:root:--  cycle_live_trate00 0
 DEBUG:root: >> phase_durations_path =.//cell_definition[2]//phenotype//cycle//phase_durations
 DEBUG:root: >> pd_uep =None
 DEBUG:root:
 ===== populate_tree():  death
-DEBUG:root:death_uep=<Element 'death' at 0x17bf93f90>
+DEBUG:root:death_uep=<Element 'death' at 0x17f263f90>
 DEBUG:root:-------- parsing apoptosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17bf981d0>
-DEBUG:root:phase_duration= <Element 'duration' at 0x17bf98270>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f2681d0>
+DEBUG:root:phase_duration= <Element 'duration' at 0x17f268270>
 DEBUG:root:index= 0
 DEBUG:root:-------- parsing necrosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17bf989a0>
-DEBUG:root:<Element 'duration' at 0x17bf98a40>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f2689a0>
+DEBUG:root:<Element 'duration' at 0x17f268a40>
 DEBUG:root:index= 0
-DEBUG:root:<Element 'duration' at 0x17bf98ae0>
+DEBUG:root:<Element 'duration' at 0x17f268ae0>
 DEBUG:root:index= 1
 DEBUG:root:volume_path=.//cell_definition[2]//phenotype//volume//
 DEBUG:root:
@@ -336,26 +336,26 @@ DEBUG:root:
 DEBUG:root:motility_advanced_chemotaxis_path= .//cell_definition[2]//phenotype//motility//options//advanced_chemotaxis//
 DEBUG:root:chemotactic_sensitivity= {'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:sensitivity_path= .//cell_definition[2]//phenotype//motility//options//advanced_chemotaxis//chemotactic_sensitivities
-DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17bfa30e0>
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfa3130>
+DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17f2730e0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f273130>
 DEBUG:root: chemotactic_sensitivity--> reelin = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfa31d0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2731d0>
 DEBUG:root: chemotactic_sensitivity--> pia_migration_factor = 1.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfa3270>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f273270>
 DEBUG:root: chemotactic_sensitivity--> rgc_taxis_factor = -1.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfa3310>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f273310>
 DEBUG:root: chemotactic_sensitivity--> transformation_inhibitor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfa33b0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2733b0>
 DEBUG:root: chemotactic_sensitivity--> type_6_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfa3450>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f273450>
 DEBUG:root: chemotactic_sensitivity--> type_5_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfa34f0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2734f0>
 DEBUG:root: chemotactic_sensitivity--> type_4_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfa3590>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f273590>
 DEBUG:root: chemotactic_sensitivity--> type_3_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfa3630>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f273630>
 DEBUG:root: chemotactic_sensitivity--> type_2_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfa36d0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2736d0>
 DEBUG:root: chemotactic_sensitivity--> type_1_diff_factor = 0.0
 DEBUG:root:{'reelin': '0.0', 'pia_migration_factor': '1.0', 'rgc_taxis_factor': '-1.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:------ motility2_substrate_changed_cb(): idx = 0
@@ -365,7 +365,7 @@ DEBUG:root:   chemotactic_sensitivity = {'reelin': '0.0', 'pia_migration_factor'
 DEBUG:root:
 ===== populate_tree():  secretion
 DEBUG:root:secretion_path = .//cell_definition[2]//phenotype//secretion//
-DEBUG:root:uep_secretion = <Element 'secretion' at 0x17bfa38b0>
+DEBUG:root:uep_secretion = <Element 'secretion' at 0x17f2738b0>
 DEBUG:root:0) -- secretion substrate = reelin
 DEBUG:root:1) -- secretion substrate = pia_migration_factor
 DEBUG:root:2) -- secretion substrate = rgc_taxis_factor
@@ -381,7 +381,7 @@ DEBUG:root:
 ===== populate_tree():  cell_interactions
 DEBUG:root:---- cell_interactions_path= .//cell_definition[2]//phenotype//cell_interactions
 DEBUG:root:---- found cell_interactions:
-DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17bfac770>
+DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17f27c770>
 DEBUG:root: live_phagocytosis_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: attack_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: fusion_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
@@ -396,7 +396,7 @@ DEBUG:root:
 DEBUG:root:------ done parsing intracellular:
 DEBUG:root:
 ===== populate_tree():  custom data
-DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17bfb3900>
+DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17f283900>
 DEBUG:root:--------------- populate_tree: (empty)custom_data = {}
 DEBUG:root:var.attrib.keys() = dict_keys(['conserved', 'units', 'description'])
 DEBUG:root:populate: cell_def_name= pial --> custom_data: {'sample': ['1.0', False]}
@@ -413,22 +413,22 @@ DEBUG:root:
 DEBUG:root: >> cycle_path= .//cell_definition[3]//phenotype//cycle
 DEBUG:root:   cycle code= 5
 DEBUG:root: >> phase_transition_path 
-DEBUG:root:<Element 'rate' at 0x17bfb3cc0>
-DEBUG:root:--  cycle_live_trate00 0.003
+DEBUG:root:<Element 'rate' at 0x17f283cc0>
+DEBUG:root:--  cycle_live_trate00 0.00144
 DEBUG:root: >> phase_durations_path =.//cell_definition[3]//phenotype//cycle//phase_durations
 DEBUG:root: >> pd_uep =None
 DEBUG:root:
 ===== populate_tree():  death
-DEBUG:root:death_uep=<Element 'death' at 0x17bfb3e00>
+DEBUG:root:death_uep=<Element 'death' at 0x17f283e00>
 DEBUG:root:-------- parsing apoptosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17bfb7040>
-DEBUG:root:phase_duration= <Element 'duration' at 0x17bfb70e0>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f288040>
+DEBUG:root:phase_duration= <Element 'duration' at 0x17f2880e0>
 DEBUG:root:index= 0
 DEBUG:root:-------- parsing necrosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17bfb7810>
-DEBUG:root:<Element 'duration' at 0x17bfb78b0>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f288810>
+DEBUG:root:<Element 'duration' at 0x17f2888b0>
 DEBUG:root:index= 0
-DEBUG:root:<Element 'duration' at 0x17bfb7950>
+DEBUG:root:<Element 'duration' at 0x17f288950>
 DEBUG:root:index= 1
 DEBUG:root:volume_path=.//cell_definition[3]//phenotype//volume//
 DEBUG:root:
@@ -455,26 +455,26 @@ DEBUG:root:
 DEBUG:root:motility_advanced_chemotaxis_path= .//cell_definition[3]//phenotype//motility//options//advanced_chemotaxis//
 DEBUG:root:chemotactic_sensitivity= {'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:sensitivity_path= .//cell_definition[3]//phenotype//motility//options//advanced_chemotaxis//chemotactic_sensitivities
-DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17bfbfef0>
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfbff40>
+DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17f28fef0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f28ff40>
 DEBUG:root: chemotactic_sensitivity--> reelin = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfc3040>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f293040>
 DEBUG:root: chemotactic_sensitivity--> pia_migration_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfc30e0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2930e0>
 DEBUG:root: chemotactic_sensitivity--> rgc_taxis_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfc3180>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f293180>
 DEBUG:root: chemotactic_sensitivity--> transformation_inhibitor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfc3220>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f293220>
 DEBUG:root: chemotactic_sensitivity--> type_6_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfc32c0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2932c0>
 DEBUG:root: chemotactic_sensitivity--> type_5_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfc3360>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f293360>
 DEBUG:root: chemotactic_sensitivity--> type_4_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfc3400>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f293400>
 DEBUG:root: chemotactic_sensitivity--> type_3_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfc34a0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2934a0>
 DEBUG:root: chemotactic_sensitivity--> type_2_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfc3540>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f293540>
 DEBUG:root: chemotactic_sensitivity--> type_1_diff_factor = 0.0
 DEBUG:root:{'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:------ motility2_substrate_changed_cb(): idx = 0
@@ -484,7 +484,7 @@ DEBUG:root:   chemotactic_sensitivity = {'reelin': '0.0', 'pia_migration_factor'
 DEBUG:root:
 ===== populate_tree():  secretion
 DEBUG:root:secretion_path = .//cell_definition[3]//phenotype//secretion//
-DEBUG:root:uep_secretion = <Element 'secretion' at 0x17bfc3720>
+DEBUG:root:uep_secretion = <Element 'secretion' at 0x17f293720>
 DEBUG:root:0) -- secretion substrate = reelin
 DEBUG:root:1) -- secretion substrate = pia_migration_factor
 DEBUG:root:2) -- secretion substrate = rgc_taxis_factor
@@ -500,7 +500,7 @@ DEBUG:root:
 ===== populate_tree():  cell_interactions
 DEBUG:root:---- cell_interactions_path= .//cell_definition[3]//phenotype//cell_interactions
 DEBUG:root:---- found cell_interactions:
-DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17bfcc5e0>
+DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17f29c5e0>
 DEBUG:root: live_phagocytosis_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: attack_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: fusion_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
@@ -515,7 +515,7 @@ DEBUG:root:
 DEBUG:root:------ done parsing intracellular:
 DEBUG:root:
 ===== populate_tree():  custom data
-DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17bfd4770>
+DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17f2a4770>
 DEBUG:root:--------------- populate_tree: (empty)custom_data = {}
 DEBUG:root:var.attrib.keys() = dict_keys(['conserved', 'units', 'description'])
 DEBUG:root:populate: cell_def_name= rgc --> custom_data: {'sample': ['1.0', False]}
@@ -532,22 +532,22 @@ DEBUG:root:
 DEBUG:root: >> cycle_path= .//cell_definition[4]//phenotype//cycle
 DEBUG:root:   cycle code= 5
 DEBUG:root: >> phase_transition_path 
-DEBUG:root:<Element 'rate' at 0x17bfd4b30>
+DEBUG:root:<Element 'rate' at 0x17f2a4b30>
 DEBUG:root:--  cycle_live_trate00 0
 DEBUG:root: >> phase_durations_path =.//cell_definition[4]//phenotype//cycle//phase_durations
 DEBUG:root: >> pd_uep =None
 DEBUG:root:
 ===== populate_tree():  death
-DEBUG:root:death_uep=<Element 'death' at 0x17bfd4c70>
+DEBUG:root:death_uep=<Element 'death' at 0x17f2a4c70>
 DEBUG:root:-------- parsing apoptosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17bfd4e50>
-DEBUG:root:phase_duration= <Element 'duration' at 0x17bfd4ef0>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f2a4e50>
+DEBUG:root:phase_duration= <Element 'duration' at 0x17f2a4ef0>
 DEBUG:root:index= 0
 DEBUG:root:-------- parsing necrosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17bfd8680>
-DEBUG:root:<Element 'duration' at 0x17bfd8720>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f2a8680>
+DEBUG:root:<Element 'duration' at 0x17f2a8720>
 DEBUG:root:index= 0
-DEBUG:root:<Element 'duration' at 0x17bfd87c0>
+DEBUG:root:<Element 'duration' at 0x17f2a87c0>
 DEBUG:root:index= 1
 DEBUG:root:volume_path=.//cell_definition[4]//phenotype//volume//
 DEBUG:root:
@@ -574,26 +574,26 @@ DEBUG:root:
 DEBUG:root:motility_advanced_chemotaxis_path= .//cell_definition[4]//phenotype//motility//options//advanced_chemotaxis//
 DEBUG:root:chemotactic_sensitivity= {'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:sensitivity_path= .//cell_definition[4]//phenotype//motility//options//advanced_chemotaxis//chemotactic_sensitivities
-DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17bfdfd60>
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfdfdb0>
+DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17f2afd60>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2afdb0>
 DEBUG:root: chemotactic_sensitivity--> reelin = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfdfe50>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2afe50>
 DEBUG:root: chemotactic_sensitivity--> pia_migration_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfdfef0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2afef0>
 DEBUG:root: chemotactic_sensitivity--> rgc_taxis_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfdff90>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2aff90>
 DEBUG:root: chemotactic_sensitivity--> transformation_inhibitor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfe3090>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2b3090>
 DEBUG:root: chemotactic_sensitivity--> type_6_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfe3130>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2b3130>
 DEBUG:root: chemotactic_sensitivity--> type_5_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfe31d0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2b31d0>
 DEBUG:root: chemotactic_sensitivity--> type_4_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfe3270>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2b3270>
 DEBUG:root: chemotactic_sensitivity--> type_3_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfe3310>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2b3310>
 DEBUG:root: chemotactic_sensitivity--> type_2_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17bfe33b0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f2b33b0>
 DEBUG:root: chemotactic_sensitivity--> type_1_diff_factor = 0.0
 DEBUG:root:{'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:------ motility2_substrate_changed_cb(): idx = 0
@@ -603,7 +603,7 @@ DEBUG:root:   chemotactic_sensitivity = {'reelin': '0.0', 'pia_migration_factor'
 DEBUG:root:
 ===== populate_tree():  secretion
 DEBUG:root:secretion_path = .//cell_definition[4]//phenotype//secretion//
-DEBUG:root:uep_secretion = <Element 'secretion' at 0x17bfe3590>
+DEBUG:root:uep_secretion = <Element 'secretion' at 0x17f2b3590>
 DEBUG:root:0) -- secretion substrate = reelin
 DEBUG:root:1) -- secretion substrate = pia_migration_factor
 DEBUG:root:2) -- secretion substrate = rgc_taxis_factor
@@ -619,7 +619,7 @@ DEBUG:root:
 ===== populate_tree():  cell_interactions
 DEBUG:root:---- cell_interactions_path= .//cell_definition[4]//phenotype//cell_interactions
 DEBUG:root:---- found cell_interactions:
-DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17bfeb450>
+DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17f2bb450>
 DEBUG:root: live_phagocytosis_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: attack_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: fusion_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
@@ -634,7 +634,7 @@ DEBUG:root:
 DEBUG:root:------ done parsing intracellular:
 DEBUG:root:
 ===== populate_tree():  custom data
-DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17f6705e0>
+DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17fe645e0>
 DEBUG:root:--------------- populate_tree: (empty)custom_data = {}
 DEBUG:root:var.attrib.keys() = dict_keys(['conserved', 'units', 'description'])
 DEBUG:root:populate: cell_def_name= ipc --> custom_data: {'sample': ['1.0', False]}
@@ -651,22 +651,22 @@ DEBUG:root:
 DEBUG:root: >> cycle_path= .//cell_definition[5]//phenotype//cycle
 DEBUG:root:   cycle code= 5
 DEBUG:root: >> phase_transition_path 
-DEBUG:root:<Element 'rate' at 0x17f6709a0>
+DEBUG:root:<Element 'rate' at 0x17fe649a0>
 DEBUG:root:--  cycle_live_trate00 0
 DEBUG:root: >> phase_durations_path =.//cell_definition[5]//phenotype//cycle//phase_durations
 DEBUG:root: >> pd_uep =None
 DEBUG:root:
 ===== populate_tree():  death
-DEBUG:root:death_uep=<Element 'death' at 0x17f670ae0>
+DEBUG:root:death_uep=<Element 'death' at 0x17fe64ae0>
 DEBUG:root:-------- parsing apoptosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f670cc0>
-DEBUG:root:phase_duration= <Element 'duration' at 0x17f670d60>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17fe64cc0>
+DEBUG:root:phase_duration= <Element 'duration' at 0x17fe64d60>
 DEBUG:root:index= 0
 DEBUG:root:-------- parsing necrosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f6744f0>
-DEBUG:root:<Element 'duration' at 0x17f674590>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17fe684f0>
+DEBUG:root:<Element 'duration' at 0x17fe68590>
 DEBUG:root:index= 0
-DEBUG:root:<Element 'duration' at 0x17f674630>
+DEBUG:root:<Element 'duration' at 0x17fe68630>
 DEBUG:root:index= 1
 DEBUG:root:volume_path=.//cell_definition[5]//phenotype//volume//
 DEBUG:root:
@@ -693,26 +693,26 @@ DEBUG:root:
 DEBUG:root:motility_advanced_chemotaxis_path= .//cell_definition[5]//phenotype//motility//options//advanced_chemotaxis//
 DEBUG:root:chemotactic_sensitivity= {'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:sensitivity_path= .//cell_definition[5]//phenotype//motility//options//advanced_chemotaxis//chemotactic_sensitivities
-DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17f67bb80>
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f67bbd0>
+DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17fe6fb80>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe6fbd0>
 DEBUG:root: chemotactic_sensitivity--> reelin = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f67bc70>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe6fc70>
 DEBUG:root: chemotactic_sensitivity--> pia_migration_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f67bd10>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe6fd10>
 DEBUG:root: chemotactic_sensitivity--> rgc_taxis_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f67bdb0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe6fdb0>
 DEBUG:root: chemotactic_sensitivity--> transformation_inhibitor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f67be50>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe6fe50>
 DEBUG:root: chemotactic_sensitivity--> type_6_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f67bef0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe6fef0>
 DEBUG:root: chemotactic_sensitivity--> type_5_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f67bf90>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe6ff90>
 DEBUG:root: chemotactic_sensitivity--> type_4_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f67e090>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe72090>
 DEBUG:root: chemotactic_sensitivity--> type_3_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f67e130>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe72130>
 DEBUG:root: chemotactic_sensitivity--> type_2_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f67e1d0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe721d0>
 DEBUG:root: chemotactic_sensitivity--> type_1_diff_factor = 0.0
 DEBUG:root:{'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:------ motility2_substrate_changed_cb(): idx = 0
@@ -722,7 +722,7 @@ DEBUG:root:   chemotactic_sensitivity = {'reelin': '0.0', 'pia_migration_factor'
 DEBUG:root:
 ===== populate_tree():  secretion
 DEBUG:root:secretion_path = .//cell_definition[5]//phenotype//secretion//
-DEBUG:root:uep_secretion = <Element 'secretion' at 0x17f67e3b0>
+DEBUG:root:uep_secretion = <Element 'secretion' at 0x17fe723b0>
 DEBUG:root:0) -- secretion substrate = reelin
 DEBUG:root:1) -- secretion substrate = pia_migration_factor
 DEBUG:root:2) -- secretion substrate = rgc_taxis_factor
@@ -738,7 +738,7 @@ DEBUG:root:
 ===== populate_tree():  cell_interactions
 DEBUG:root:---- cell_interactions_path= .//cell_definition[5]//phenotype//cell_interactions
 DEBUG:root:---- found cell_interactions:
-DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17f688270>
+DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17fe7c270>
 DEBUG:root: live_phagocytosis_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: attack_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: fusion_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
@@ -753,7 +753,7 @@ DEBUG:root:
 DEBUG:root:------ done parsing intracellular:
 DEBUG:root:
 ===== populate_tree():  custom data
-DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17f690400>
+DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17fe84400>
 DEBUG:root:--------------- populate_tree: (empty)custom_data = {}
 DEBUG:root:var.attrib.keys() = dict_keys(['conserved', 'units', 'description'])
 DEBUG:root:populate: cell_def_name= layer_6 --> custom_data: {'sample': ['1.0', False]}
@@ -770,22 +770,22 @@ DEBUG:root:
 DEBUG:root: >> cycle_path= .//cell_definition[6]//phenotype//cycle
 DEBUG:root:   cycle code= 5
 DEBUG:root: >> phase_transition_path 
-DEBUG:root:<Element 'rate' at 0x17f6907c0>
+DEBUG:root:<Element 'rate' at 0x17fe847c0>
 DEBUG:root:--  cycle_live_trate00 0
 DEBUG:root: >> phase_durations_path =.//cell_definition[6]//phenotype//cycle//phase_durations
 DEBUG:root: >> pd_uep =None
 DEBUG:root:
 ===== populate_tree():  death
-DEBUG:root:death_uep=<Element 'death' at 0x17f690900>
+DEBUG:root:death_uep=<Element 'death' at 0x17fe84900>
 DEBUG:root:-------- parsing apoptosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f690ae0>
-DEBUG:root:phase_duration= <Element 'duration' at 0x17f690b80>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17fe84ae0>
+DEBUG:root:phase_duration= <Element 'duration' at 0x17fe84b80>
 DEBUG:root:index= 0
 DEBUG:root:-------- parsing necrosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f694310>
-DEBUG:root:<Element 'duration' at 0x17f6943b0>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17fe88310>
+DEBUG:root:<Element 'duration' at 0x17fe883b0>
 DEBUG:root:index= 0
-DEBUG:root:<Element 'duration' at 0x17f694450>
+DEBUG:root:<Element 'duration' at 0x17fe88450>
 DEBUG:root:index= 1
 DEBUG:root:volume_path=.//cell_definition[6]//phenotype//volume//
 DEBUG:root:
@@ -812,26 +812,26 @@ DEBUG:root:
 DEBUG:root:motility_advanced_chemotaxis_path= .//cell_definition[6]//phenotype//motility//options//advanced_chemotaxis//
 DEBUG:root:chemotactic_sensitivity= {'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:sensitivity_path= .//cell_definition[6]//phenotype//motility//options//advanced_chemotaxis//chemotactic_sensitivities
-DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17f69c9a0>
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f69c9f0>
+DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17fe909a0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe909f0>
 DEBUG:root: chemotactic_sensitivity--> reelin = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f69ca90>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe90a90>
 DEBUG:root: chemotactic_sensitivity--> pia_migration_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f69cb30>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe90b30>
 DEBUG:root: chemotactic_sensitivity--> rgc_taxis_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f69cbd0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe90bd0>
 DEBUG:root: chemotactic_sensitivity--> transformation_inhibitor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f69cc70>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe90c70>
 DEBUG:root: chemotactic_sensitivity--> type_6_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f69cd10>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe90d10>
 DEBUG:root: chemotactic_sensitivity--> type_5_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f69cdb0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe90db0>
 DEBUG:root: chemotactic_sensitivity--> type_4_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f69ce50>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe90e50>
 DEBUG:root: chemotactic_sensitivity--> type_3_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f69cef0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe90ef0>
 DEBUG:root: chemotactic_sensitivity--> type_2_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f69cf90>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fe90f90>
 DEBUG:root: chemotactic_sensitivity--> type_1_diff_factor = 0.0
 DEBUG:root:{'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:------ motility2_substrate_changed_cb(): idx = 0
@@ -841,7 +841,7 @@ DEBUG:root:   chemotactic_sensitivity = {'reelin': '0.0', 'pia_migration_factor'
 DEBUG:root:
 ===== populate_tree():  secretion
 DEBUG:root:secretion_path = .//cell_definition[6]//phenotype//secretion//
-DEBUG:root:uep_secretion = <Element 'secretion' at 0x17f69f1d0>
+DEBUG:root:uep_secretion = <Element 'secretion' at 0x17fe931d0>
 DEBUG:root:0) -- secretion substrate = reelin
 DEBUG:root:1) -- secretion substrate = pia_migration_factor
 DEBUG:root:2) -- secretion substrate = rgc_taxis_factor
@@ -857,7 +857,7 @@ DEBUG:root:
 ===== populate_tree():  cell_interactions
 DEBUG:root:---- cell_interactions_path= .//cell_definition[6]//phenotype//cell_interactions
 DEBUG:root:---- found cell_interactions:
-DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17f6a9090>
+DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17fe9d090>
 DEBUG:root: live_phagocytosis_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: attack_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: fusion_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
@@ -872,7 +872,7 @@ DEBUG:root:
 DEBUG:root:------ done parsing intracellular:
 DEBUG:root:
 ===== populate_tree():  custom data
-DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17f6b1220>
+DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17fea5220>
 DEBUG:root:--------------- populate_tree: (empty)custom_data = {}
 DEBUG:root:var.attrib.keys() = dict_keys(['conserved', 'units', 'description'])
 DEBUG:root:populate: cell_def_name= layer_5 --> custom_data: {'sample': ['1.0', False]}
@@ -889,22 +889,22 @@ DEBUG:root:
 DEBUG:root: >> cycle_path= .//cell_definition[7]//phenotype//cycle
 DEBUG:root:   cycle code= 5
 DEBUG:root: >> phase_transition_path 
-DEBUG:root:<Element 'rate' at 0x17f6b15e0>
+DEBUG:root:<Element 'rate' at 0x17fea55e0>
 DEBUG:root:--  cycle_live_trate00 0
 DEBUG:root: >> phase_durations_path =.//cell_definition[7]//phenotype//cycle//phase_durations
 DEBUG:root: >> pd_uep =None
 DEBUG:root:
 ===== populate_tree():  death
-DEBUG:root:death_uep=<Element 'death' at 0x17f6b1720>
+DEBUG:root:death_uep=<Element 'death' at 0x17fea5720>
 DEBUG:root:-------- parsing apoptosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f6b1900>
-DEBUG:root:phase_duration= <Element 'duration' at 0x17f6b19a0>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17fea5900>
+DEBUG:root:phase_duration= <Element 'duration' at 0x17fea59a0>
 DEBUG:root:index= 0
 DEBUG:root:-------- parsing necrosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f6b4130>
-DEBUG:root:<Element 'duration' at 0x17f6b41d0>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17fea8130>
+DEBUG:root:<Element 'duration' at 0x17fea81d0>
 DEBUG:root:index= 0
-DEBUG:root:<Element 'duration' at 0x17f6b4270>
+DEBUG:root:<Element 'duration' at 0x17fea8270>
 DEBUG:root:index= 1
 DEBUG:root:volume_path=.//cell_definition[7]//phenotype//volume//
 DEBUG:root:
@@ -931,26 +931,26 @@ DEBUG:root:
 DEBUG:root:motility_advanced_chemotaxis_path= .//cell_definition[7]//phenotype//motility//options//advanced_chemotaxis//
 DEBUG:root:chemotactic_sensitivity= {'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:sensitivity_path= .//cell_definition[7]//phenotype//motility//options//advanced_chemotaxis//chemotactic_sensitivities
-DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17f6bb7c0>
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6bb810>
+DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17feaf7c0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feaf810>
 DEBUG:root: chemotactic_sensitivity--> reelin = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6bb8b0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feaf8b0>
 DEBUG:root: chemotactic_sensitivity--> pia_migration_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6bb950>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feaf950>
 DEBUG:root: chemotactic_sensitivity--> rgc_taxis_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6bb9f0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feaf9f0>
 DEBUG:root: chemotactic_sensitivity--> transformation_inhibitor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6bba90>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feafa90>
 DEBUG:root: chemotactic_sensitivity--> type_6_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6bbb30>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feafb30>
 DEBUG:root: chemotactic_sensitivity--> type_5_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6bbbd0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feafbd0>
 DEBUG:root: chemotactic_sensitivity--> type_4_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6bbc70>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feafc70>
 DEBUG:root: chemotactic_sensitivity--> type_3_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6bbd10>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feafd10>
 DEBUG:root: chemotactic_sensitivity--> type_2_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6bbdb0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feafdb0>
 DEBUG:root: chemotactic_sensitivity--> type_1_diff_factor = 0.0
 DEBUG:root:{'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:------ motility2_substrate_changed_cb(): idx = 0
@@ -960,7 +960,7 @@ DEBUG:root:   chemotactic_sensitivity = {'reelin': '0.0', 'pia_migration_factor'
 DEBUG:root:
 ===== populate_tree():  secretion
 DEBUG:root:secretion_path = .//cell_definition[7]//phenotype//secretion//
-DEBUG:root:uep_secretion = <Element 'secretion' at 0x17f6bbf90>
+DEBUG:root:uep_secretion = <Element 'secretion' at 0x17feaff90>
 DEBUG:root:0) -- secretion substrate = reelin
 DEBUG:root:1) -- secretion substrate = pia_migration_factor
 DEBUG:root:2) -- secretion substrate = rgc_taxis_factor
@@ -976,7 +976,7 @@ DEBUG:root:
 ===== populate_tree():  cell_interactions
 DEBUG:root:---- cell_interactions_path= .//cell_definition[7]//phenotype//cell_interactions
 DEBUG:root:---- found cell_interactions:
-DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17f6c6e50>
+DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17febae50>
 DEBUG:root: live_phagocytosis_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: attack_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: fusion_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
@@ -991,7 +991,7 @@ DEBUG:root:
 DEBUG:root:------ done parsing intracellular:
 DEBUG:root:
 ===== populate_tree():  custom data
-DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17f6d2040>
+DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17fec6040>
 DEBUG:root:--------------- populate_tree: (empty)custom_data = {}
 DEBUG:root:var.attrib.keys() = dict_keys(['conserved', 'units', 'description'])
 DEBUG:root:populate: cell_def_name= layer_4 --> custom_data: {'sample': ['1.0', False]}
@@ -1008,22 +1008,22 @@ DEBUG:root:
 DEBUG:root: >> cycle_path= .//cell_definition[8]//phenotype//cycle
 DEBUG:root:   cycle code= 5
 DEBUG:root: >> phase_transition_path 
-DEBUG:root:<Element 'rate' at 0x17f6d2400>
+DEBUG:root:<Element 'rate' at 0x17fec6400>
 DEBUG:root:--  cycle_live_trate00 0
 DEBUG:root: >> phase_durations_path =.//cell_definition[8]//phenotype//cycle//phase_durations
 DEBUG:root: >> pd_uep =None
 DEBUG:root:
 ===== populate_tree():  death
-DEBUG:root:death_uep=<Element 'death' at 0x17f6d2540>
+DEBUG:root:death_uep=<Element 'death' at 0x17fec6540>
 DEBUG:root:-------- parsing apoptosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f6d2720>
-DEBUG:root:phase_duration= <Element 'duration' at 0x17f6d27c0>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17fec6720>
+DEBUG:root:phase_duration= <Element 'duration' at 0x17fec67c0>
 DEBUG:root:index= 0
 DEBUG:root:-------- parsing necrosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f6d2ef0>
-DEBUG:root:<Element 'duration' at 0x17f6d2f90>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17fec6ef0>
+DEBUG:root:<Element 'duration' at 0x17fec6f90>
 DEBUG:root:index= 0
-DEBUG:root:<Element 'duration' at 0x17f6d5090>
+DEBUG:root:<Element 'duration' at 0x17fec9090>
 DEBUG:root:index= 1
 DEBUG:root:volume_path=.//cell_definition[8]//phenotype//volume//
 DEBUG:root:
@@ -1050,26 +1050,26 @@ DEBUG:root:
 DEBUG:root:motility_advanced_chemotaxis_path= .//cell_definition[8]//phenotype//motility//options//advanced_chemotaxis//
 DEBUG:root:chemotactic_sensitivity= {'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:sensitivity_path= .//cell_definition[8]//phenotype//motility//options//advanced_chemotaxis//chemotactic_sensitivities
-DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17f6dc590>
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6dc5e0>
+DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17fed05e0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fed0630>
 DEBUG:root: chemotactic_sensitivity--> reelin = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6dc680>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fed06d0>
 DEBUG:root: chemotactic_sensitivity--> pia_migration_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6dc720>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fed0770>
 DEBUG:root: chemotactic_sensitivity--> rgc_taxis_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6dc7c0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fed0810>
 DEBUG:root: chemotactic_sensitivity--> transformation_inhibitor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6dc860>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fed08b0>
 DEBUG:root: chemotactic_sensitivity--> type_6_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6dc900>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fed0950>
 DEBUG:root: chemotactic_sensitivity--> type_5_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6dc9a0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fed09f0>
 DEBUG:root: chemotactic_sensitivity--> type_4_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6dca40>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fed0a90>
 DEBUG:root: chemotactic_sensitivity--> type_3_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6dcae0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fed0b30>
 DEBUG:root: chemotactic_sensitivity--> type_2_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6dcb80>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17fed0bd0>
 DEBUG:root: chemotactic_sensitivity--> type_1_diff_factor = 0.0
 DEBUG:root:{'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:------ motility2_substrate_changed_cb(): idx = 0
@@ -1079,7 +1079,7 @@ DEBUG:root:   chemotactic_sensitivity = {'reelin': '0.0', 'pia_migration_factor'
 DEBUG:root:
 ===== populate_tree():  secretion
 DEBUG:root:secretion_path = .//cell_definition[8]//phenotype//secretion//
-DEBUG:root:uep_secretion = <Element 'secretion' at 0x17f6dcd60>
+DEBUG:root:uep_secretion = <Element 'secretion' at 0x17fed0db0>
 DEBUG:root:0) -- secretion substrate = reelin
 DEBUG:root:1) -- secretion substrate = pia_migration_factor
 DEBUG:root:2) -- secretion substrate = rgc_taxis_factor
@@ -1095,7 +1095,7 @@ DEBUG:root:
 ===== populate_tree():  cell_interactions
 DEBUG:root:---- cell_interactions_path= .//cell_definition[8]//phenotype//cell_interactions
 DEBUG:root:---- found cell_interactions:
-DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17f6e5c20>
+DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17fed9c70>
 DEBUG:root: live_phagocytosis_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: attack_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: fusion_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
@@ -1110,7 +1110,7 @@ DEBUG:root:
 DEBUG:root:------ done parsing intracellular:
 DEBUG:root:
 ===== populate_tree():  custom data
-DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17f6eddb0>
+DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17fee1e00>
 DEBUG:root:--------------- populate_tree: (empty)custom_data = {}
 DEBUG:root:var.attrib.keys() = dict_keys(['conserved', 'units', 'description'])
 DEBUG:root:populate: cell_def_name= layer_3 --> custom_data: {'sample': ['1.0', False]}
@@ -1127,22 +1127,22 @@ DEBUG:root:
 DEBUG:root: >> cycle_path= .//cell_definition[9]//phenotype//cycle
 DEBUG:root:   cycle code= 5
 DEBUG:root: >> phase_transition_path 
-DEBUG:root:<Element 'rate' at 0x17f6f11d0>
+DEBUG:root:<Element 'rate' at 0x17fee5220>
 DEBUG:root:--  cycle_live_trate00 0
 DEBUG:root: >> phase_durations_path =.//cell_definition[9]//phenotype//cycle//phase_durations
 DEBUG:root: >> pd_uep =None
 DEBUG:root:
 ===== populate_tree():  death
-DEBUG:root:death_uep=<Element 'death' at 0x17f6f1310>
+DEBUG:root:death_uep=<Element 'death' at 0x17fee5360>
 DEBUG:root:-------- parsing apoptosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f6f14f0>
-DEBUG:root:phase_duration= <Element 'duration' at 0x17f6f1590>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17fee5540>
+DEBUG:root:phase_duration= <Element 'duration' at 0x17fee55e0>
 DEBUG:root:index= 0
 DEBUG:root:-------- parsing necrosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f6f1cc0>
-DEBUG:root:<Element 'duration' at 0x17f6f1d60>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17fee5d10>
+DEBUG:root:<Element 'duration' at 0x17fee5db0>
 DEBUG:root:index= 0
-DEBUG:root:<Element 'duration' at 0x17f6f1e00>
+DEBUG:root:<Element 'duration' at 0x17fee5e50>
 DEBUG:root:index= 1
 DEBUG:root:volume_path=.//cell_definition[9]//phenotype//volume//
 DEBUG:root:
@@ -1169,26 +1169,26 @@ DEBUG:root:
 DEBUG:root:motility_advanced_chemotaxis_path= .//cell_definition[9]//phenotype//motility//options//advanced_chemotaxis//
 DEBUG:root:chemotactic_sensitivity= {'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:sensitivity_path= .//cell_definition[9]//phenotype//motility//options//advanced_chemotaxis//chemotactic_sensitivities
-DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17f6fb3b0>
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6fb400>
+DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17feef400>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feef450>
 DEBUG:root: chemotactic_sensitivity--> reelin = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6fb4a0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feef4f0>
 DEBUG:root: chemotactic_sensitivity--> pia_migration_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6fb540>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feef590>
 DEBUG:root: chemotactic_sensitivity--> rgc_taxis_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6fb5e0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feef630>
 DEBUG:root: chemotactic_sensitivity--> transformation_inhibitor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6fb680>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feef6d0>
 DEBUG:root: chemotactic_sensitivity--> type_6_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6fb720>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feef770>
 DEBUG:root: chemotactic_sensitivity--> type_5_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6fb7c0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feef810>
 DEBUG:root: chemotactic_sensitivity--> type_4_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6fb860>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feef8b0>
 DEBUG:root: chemotactic_sensitivity--> type_3_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6fb900>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feef950>
 DEBUG:root: chemotactic_sensitivity--> type_2_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f6fb9a0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17feef9f0>
 DEBUG:root: chemotactic_sensitivity--> type_1_diff_factor = 0.0
 DEBUG:root:{'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:------ motility2_substrate_changed_cb(): idx = 0
@@ -1198,7 +1198,7 @@ DEBUG:root:   chemotactic_sensitivity = {'reelin': '0.0', 'pia_migration_factor'
 DEBUG:root:
 ===== populate_tree():  secretion
 DEBUG:root:secretion_path = .//cell_definition[9]//phenotype//secretion//
-DEBUG:root:uep_secretion = <Element 'secretion' at 0x17f6fbb80>
+DEBUG:root:uep_secretion = <Element 'secretion' at 0x17feefbd0>
 DEBUG:root:0) -- secretion substrate = reelin
 DEBUG:root:1) -- secretion substrate = pia_migration_factor
 DEBUG:root:2) -- secretion substrate = rgc_taxis_factor
@@ -1214,7 +1214,7 @@ DEBUG:root:
 ===== populate_tree():  cell_interactions
 DEBUG:root:---- cell_interactions_path= .//cell_definition[9]//phenotype//cell_interactions
 DEBUG:root:---- found cell_interactions:
-DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17f705a40>
+DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17fef9a90>
 DEBUG:root: live_phagocytosis_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: attack_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: fusion_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
@@ -1229,7 +1229,7 @@ DEBUG:root:
 DEBUG:root:------ done parsing intracellular:
 DEBUG:root:
 ===== populate_tree():  custom data
-DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17f70ebd0>
+DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17ff02c20>
 DEBUG:root:--------------- populate_tree: (empty)custom_data = {}
 DEBUG:root:var.attrib.keys() = dict_keys(['conserved', 'units', 'description'])
 DEBUG:root:populate: cell_def_name= interneuron --> custom_data: {'sample': ['1.0', False]}
@@ -1246,22 +1246,22 @@ DEBUG:root:
 DEBUG:root: >> cycle_path= .//cell_definition[10]//phenotype//cycle
 DEBUG:root:   cycle code= 5
 DEBUG:root: >> phase_transition_path 
-DEBUG:root:<Element 'rate' at 0x17f70ef90>
+DEBUG:root:<Element 'rate' at 0x17ff06040>
 DEBUG:root:--  cycle_live_trate00 0
 DEBUG:root: >> phase_durations_path =.//cell_definition[10]//phenotype//cycle//phase_durations
 DEBUG:root: >> pd_uep =None
 DEBUG:root:
 ===== populate_tree():  death
-DEBUG:root:death_uep=<Element 'death' at 0x17f712130>
+DEBUG:root:death_uep=<Element 'death' at 0x17ff06180>
 DEBUG:root:-------- parsing apoptosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f712310>
-DEBUG:root:phase_duration= <Element 'duration' at 0x17f7123b0>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17ff06360>
+DEBUG:root:phase_duration= <Element 'duration' at 0x17ff06400>
 DEBUG:root:index= 0
 DEBUG:root:-------- parsing necrosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f712ae0>
-DEBUG:root:<Element 'duration' at 0x17f712b80>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17ff06b30>
+DEBUG:root:<Element 'duration' at 0x17ff06bd0>
 DEBUG:root:index= 0
-DEBUG:root:<Element 'duration' at 0x17f712c20>
+DEBUG:root:<Element 'duration' at 0x17ff06c70>
 DEBUG:root:index= 1
 DEBUG:root:volume_path=.//cell_definition[10]//phenotype//volume//
 DEBUG:root:
@@ -1288,26 +1288,26 @@ DEBUG:root:
 DEBUG:root:motility_advanced_chemotaxis_path= .//cell_definition[10]//phenotype//motility//options//advanced_chemotaxis//
 DEBUG:root:chemotactic_sensitivity= {'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:sensitivity_path= .//cell_definition[10]//phenotype//motility//options//advanced_chemotaxis//chemotactic_sensitivities
-DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17f71d1d0>
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f71d220>
+DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17ff11220>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff11270>
 DEBUG:root: chemotactic_sensitivity--> reelin = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f71d2c0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff11310>
 DEBUG:root: chemotactic_sensitivity--> pia_migration_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f71d360>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff113b0>
 DEBUG:root: chemotactic_sensitivity--> rgc_taxis_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f71d400>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff11450>
 DEBUG:root: chemotactic_sensitivity--> transformation_inhibitor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f71d4a0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff114f0>
 DEBUG:root: chemotactic_sensitivity--> type_6_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f71d540>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff11590>
 DEBUG:root: chemotactic_sensitivity--> type_5_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f71d5e0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff11630>
 DEBUG:root: chemotactic_sensitivity--> type_4_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f71d680>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff116d0>
 DEBUG:root: chemotactic_sensitivity--> type_3_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f71d720>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff11770>
 DEBUG:root: chemotactic_sensitivity--> type_2_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f71d7c0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff11810>
 DEBUG:root: chemotactic_sensitivity--> type_1_diff_factor = 0.0
 DEBUG:root:{'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:------ motility2_substrate_changed_cb(): idx = 0
@@ -1317,7 +1317,7 @@ DEBUG:root:   chemotactic_sensitivity = {'reelin': '0.0', 'pia_migration_factor'
 DEBUG:root:
 ===== populate_tree():  secretion
 DEBUG:root:secretion_path = .//cell_definition[10]//phenotype//secretion//
-DEBUG:root:uep_secretion = <Element 'secretion' at 0x17f71d9a0>
+DEBUG:root:uep_secretion = <Element 'secretion' at 0x17ff119f0>
 DEBUG:root:0) -- secretion substrate = reelin
 DEBUG:root:1) -- secretion substrate = pia_migration_factor
 DEBUG:root:2) -- secretion substrate = rgc_taxis_factor
@@ -1333,7 +1333,7 @@ DEBUG:root:
 ===== populate_tree():  cell_interactions
 DEBUG:root:---- cell_interactions_path= .//cell_definition[10]//phenotype//cell_interactions
 DEBUG:root:---- found cell_interactions:
-DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17f725860>
+DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17ff198b0>
 DEBUG:root: live_phagocytosis_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: attack_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: fusion_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
@@ -1348,7 +1348,7 @@ DEBUG:root:
 DEBUG:root:------ done parsing intracellular:
 DEBUG:root:
 ===== populate_tree():  custom data
-DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17f72e9f0>
+DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17ff22a40>
 DEBUG:root:--------------- populate_tree: (empty)custom_data = {}
 DEBUG:root:var.attrib.keys() = dict_keys(['conserved', 'units', 'description'])
 DEBUG:root:populate: cell_def_name= layer_2 --> custom_data: {'sample': ['1.0', False]}
@@ -1365,22 +1365,22 @@ DEBUG:root:
 DEBUG:root: >> cycle_path= .//cell_definition[11]//phenotype//cycle
 DEBUG:root:   cycle code= 5
 DEBUG:root: >> phase_transition_path 
-DEBUG:root:<Element 'rate' at 0x17f72edb0>
+DEBUG:root:<Element 'rate' at 0x17ff22e00>
 DEBUG:root:--  cycle_live_trate00 0
 DEBUG:root: >> phase_durations_path =.//cell_definition[11]//phenotype//cycle//phase_durations
 DEBUG:root: >> pd_uep =None
 DEBUG:root:
 ===== populate_tree():  death
-DEBUG:root:death_uep=<Element 'death' at 0x17f72eef0>
+DEBUG:root:death_uep=<Element 'death' at 0x17ff22f40>
 DEBUG:root:-------- parsing apoptosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f731130>
-DEBUG:root:phase_duration= <Element 'duration' at 0x17f7311d0>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17ff25180>
+DEBUG:root:phase_duration= <Element 'duration' at 0x17ff25220>
 DEBUG:root:index= 0
 DEBUG:root:-------- parsing necrosis!
-DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17f731900>
-DEBUG:root:<Element 'duration' at 0x17f7319a0>
+DEBUG:root: >> pd_uep =<Element 'phase_durations' at 0x17ff25950>
+DEBUG:root:<Element 'duration' at 0x17ff259f0>
 DEBUG:root:index= 0
-DEBUG:root:<Element 'duration' at 0x17f731a40>
+DEBUG:root:<Element 'duration' at 0x17ff25a90>
 DEBUG:root:index= 1
 DEBUG:root:volume_path=.//cell_definition[11]//phenotype//volume//
 DEBUG:root:
@@ -1407,26 +1407,26 @@ DEBUG:root:
 DEBUG:root:motility_advanced_chemotaxis_path= .//cell_definition[11]//phenotype//motility//options//advanced_chemotaxis//
 DEBUG:root:chemotactic_sensitivity= {'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:sensitivity_path= .//cell_definition[11]//phenotype//motility//options//advanced_chemotaxis//chemotactic_sensitivities
-DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17f739f90>
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f73c040>
+DEBUG:root:---- found chemotactic_sensitivities: <Element 'chemotactic_sensitivities' at 0x17ff30040>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff30090>
 DEBUG:root: chemotactic_sensitivity--> reelin = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f73c0e0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff30130>
 DEBUG:root: chemotactic_sensitivity--> pia_migration_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f73c180>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff301d0>
 DEBUG:root: chemotactic_sensitivity--> rgc_taxis_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f73c220>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff30270>
 DEBUG:root: chemotactic_sensitivity--> transformation_inhibitor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f73c2c0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff30310>
 DEBUG:root: chemotactic_sensitivity--> type_6_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f73c360>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff303b0>
 DEBUG:root: chemotactic_sensitivity--> type_5_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f73c400>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff30450>
 DEBUG:root: chemotactic_sensitivity--> type_4_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f73c4a0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff304f0>
 DEBUG:root: chemotactic_sensitivity--> type_3_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f73c540>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff30590>
 DEBUG:root: chemotactic_sensitivity--> type_2_diff_factor = 0.0
-DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17f73c5e0>
+DEBUG:root:subelm=<Element 'chemotactic_sensitivity' at 0x17ff30630>
 DEBUG:root: chemotactic_sensitivity--> type_1_diff_factor = 0.0
 DEBUG:root:{'reelin': '0.0', 'pia_migration_factor': '0.0', 'rgc_taxis_factor': '0.0', 'transformation_inhibitor': '0.0', 'type_6_diff_factor': '0.0', 'type_5_diff_factor': '0.0', 'type_4_diff_factor': '0.0', 'type_3_diff_factor': '0.0', 'type_2_diff_factor': '0.0', 'type_1_diff_factor': '0.0'}
 DEBUG:root:------ motility2_substrate_changed_cb(): idx = 0
@@ -1436,7 +1436,7 @@ DEBUG:root:   chemotactic_sensitivity = {'reelin': '0.0', 'pia_migration_factor'
 DEBUG:root:
 ===== populate_tree():  secretion
 DEBUG:root:secretion_path = .//cell_definition[11]//phenotype//secretion//
-DEBUG:root:uep_secretion = <Element 'secretion' at 0x17f73c7c0>
+DEBUG:root:uep_secretion = <Element 'secretion' at 0x17ff30810>
 DEBUG:root:0) -- secretion substrate = reelin
 DEBUG:root:1) -- secretion substrate = pia_migration_factor
 DEBUG:root:2) -- secretion substrate = rgc_taxis_factor
@@ -1452,7 +1452,7 @@ DEBUG:root:
 ===== populate_tree():  cell_interactions
 DEBUG:root:---- cell_interactions_path= .//cell_definition[11]//phenotype//cell_interactions
 DEBUG:root:---- found cell_interactions:
-DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17f746680>
+DEBUG:root:uep2= <Element 'live_phagocytosis_rates' at 0x17ff3a6d0>
 DEBUG:root: live_phagocytosis_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: attack_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
 DEBUG:root: fusion_rate= {'apical': '0.0', 'pial': '0.0', 'rgc': '0.0', 'interneuron': '0.0', 'layer_6': '0.0', 'ipc': '0.0', 'layer_5': '0.0', 'layer_4': '0.0', 'layer_3': '0.0', 'layer_2': '0.0', 'layer_1': '0.0'}
@@ -1467,7 +1467,7 @@ DEBUG:root:
 DEBUG:root:------ done parsing intracellular:
 DEBUG:root:
 ===== populate_tree():  custom data
-DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17f74f810>
+DEBUG:root:uep_custom_data= <Element 'custom_data' at 0x17ff42860>
 DEBUG:root:--------------- populate_tree: (empty)custom_data = {}
 DEBUG:root:var.attrib.keys() = dict_keys(['conserved', 'units', 'description'])
 DEBUG:root:populate: cell_def_name= layer_1 --> custom_data: {'sample': ['1.0', False]}

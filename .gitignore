@@ -48,3 +48,4 @@ PhysiCell copy
 
 # .DS_Store for MacOS
 *.DS_Store
+PhysiCell/studio_debug.log

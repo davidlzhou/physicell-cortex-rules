@@ -154,9 +154,9 @@ class Cell_State
 
 	int number_of_nuclei; 
 	
-	double damage; 
-	double total_attack_time; 
-	double time_alive;					// DZ custom for rgc asym div
+	// double damage; 
+	double total_attack_time; // now in interactions
+	double time_alive;
 	bool contact_with_basement_membrane; // not implemented yet 
 	
 	Cell_State(); 
